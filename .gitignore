@@ -4,3 +4,5 @@ restAPI/*.csv
 python/MLP.json
 python/test.py
 .ipynb/QuerySKU.ipynb
+./MLP.json
+./creds-mlp.json
